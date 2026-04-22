@@ -32,3 +32,9 @@ This project focuses on functionality, usability, and a modern dark-themed inter
 
 ```bash
 git clone https://github.com/zia-anes-m/CODSOFT.git
+
+---
+
+## 👨‍💻 Author
+
+Zia Anes M
